@@ -1,7 +1,9 @@
 # XcodeDownloadLinks
 Xcode 各个版本的官方下载链接
 
-需要先登录开发者中心才能进行下载！
+需要先登录 https://developer.apple.com/downloads/ 这里面什么工具都有
+
+Xcode7.1  http://adcdownload.apple.com/Developer_Tools/Xcode_7.1/Xcode_7.1.dmg
 
 Xcode7.1 beta2 http://adcdownload.apple.com/Developer_Tools/Xcode_7.1_beta_2/Xcode_7.1_beta_2.dmg
 
